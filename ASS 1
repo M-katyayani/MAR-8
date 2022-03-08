@@ -1,0 +1,7 @@
+n=input()
+l=list(n)
+v=0
+for i in n:
+    if i!='a' and i!='e' and i!='i' and i!='o' and i!='u':
+        v+=1
+print(v)
