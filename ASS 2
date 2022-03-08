@@ -1,0 +1,4 @@
+s1=input()
+s2=input()
+str=s1+s2
+print(str)
